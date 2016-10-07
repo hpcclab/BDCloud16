@@ -67,7 +67,5 @@ The downloaded package contains all the source code, examples, jars, and API htm
 
 ## Licence
 
-Source code can be found on [gitlab](https://gitlab.com/lxb200709/livestreaming_cloudsim).
-
 Developed by [Xiangbo Li](https://www.linkedin.com/in/xiangbo-li-2893582a)
 
